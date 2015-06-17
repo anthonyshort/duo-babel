@@ -14,7 +14,7 @@
     "test": "mocha --harmony"
   },
   "dependencies": {
-    "babel-core": "^5.2.16",
+    "babel-core": "^5.5.8",
     "extend": "^2.0.0"
   },
   "devDependencies": {
